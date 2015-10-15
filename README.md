@@ -9,5 +9,9 @@ Learning Github/Git: https://guides.github.com/activities/hello-world/
 Coding Example Problems: http://codingbat.com/
 
 hello world
+<<<<<<< HEAD
 Ashi- ashrut711@gmail.com
+=======
+
+>>>>>>> origin/master
 Quinn- quinn.rifkin@gmail.com
