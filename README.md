@@ -25,6 +25,10 @@ Stuff To Do Before 10/23:
  https://wpilib.screenstepslive.com/s/4485/m/13809/l/145002-installing-eclipse-c-java
 	
 3) Do the Following Exercises and email me (stundt1@gmail.com) with your answers in a .txt file attached. 
+
 	a) http://codingbat.com/prob/p140449
+
 	b) http://codingbat.com/prob/p172021
+
 	c) http://codingbat.com/prob/p191022
+	
