@@ -8,6 +8,8 @@ Learning Github/Git: https://guides.github.com/activities/hello-world/
 
 Coding Example Problems: http://codingbat.com/
 
+Programming Resources: https://wpilib.screenstepslive.com/s/4485/m/13809
+
 Role Call 
 
 Steve-Stundt1@gmail.com
