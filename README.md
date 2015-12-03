@@ -12,7 +12,6 @@ Programming Resources: https://wpilib.screenstepslive.com/s/4485/m/13809
 
 Role Call 
 
-Steve-Stundt1@gmail.com
 
 Quinn- quinn.rifkin@gmail.com
 
