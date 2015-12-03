@@ -10,11 +10,6 @@ Coding Example Problems: http://codingbat.com/
 
 Programming Resources: https://wpilib.screenstepslive.com/s/4485/m/13809
 
-Role Call 
-
-
-Quinn- quinn.rifkin@gmail.com
-
 Stuff To Do Before 10/23:
 
 1) Push to Fall2015 Repo and add your email
