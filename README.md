@@ -14,8 +14,6 @@ Role Call
 
 Steve-Stundt1@gmail.com
 
-Ashi- ashrut711@gmail.com
-
 Quinn- quinn.rifkin@gmail.com
 
 Stuff To Do Before 10/23:
