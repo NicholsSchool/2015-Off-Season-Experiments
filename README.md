@@ -26,3 +26,4 @@ Stuff To Do Before 10/23:
 
 	c) http://codingbat.com/prob/p191022
 	
+Git Tutorial on Codeacademy: http://bit.ly/1Rm7xEs
